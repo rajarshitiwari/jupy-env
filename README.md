@@ -2,11 +2,15 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajarshitiwari/jupy-env/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Frajarshitiwari%2Fnotebooks%2Ftree%2Fmain%2Fpython)
+
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
 http://mybinder.org/v2/gh/binder-examples/requirements/HEAD
+
+https://mybinder.org/v2/gh/rajarshitiwari/jupy-env/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Frajarshitiwari%2Fnotebooks%2Ftree%2Fmain%2Fpython
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
